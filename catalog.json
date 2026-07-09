@@ -17,17 +17,6 @@
       ]
     },
     {
-      "id": "natureL",
-      "name": "NatureL",
-      "icon": "🌿🌿",
-      "puzzles": [
-        { "id": "waterfalla", "name": "waterfalla", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopetoun%20falls.jpg?width=800" },
-        { "id": "waterfallb", "name": "waterfallb", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopetoun%20falls.jpg?width=800" },
-        { "id": "waterfallc", "name": "waterfallc", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopetoun%20falls.jpg?width=800" },
-        { "id": "lakej", "name": "Mountain Lake", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg?width=800" }
-      ]
-    },
-    {
       "id": "nature",
       "name": "Nature",
       "icon": "🌿",
