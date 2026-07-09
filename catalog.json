@@ -21,8 +21,8 @@
       "name": "Player",
       "icon": "🌿",
       "puzzles": [
-        { "id": "lion", "name": "Lion", "url": "https://cdn.pixabay.com/photo/2016/05/02/12/58/tiger-1367197_1280.jpg?width=800" },
-         { "id": "lion", "name": "Lion", "url": "https://cdn.pixabay.com/photo/2016/05/02/12/58/tiger-1367197_1280.jpg?width=800" }
+        { "id": "tiger1", "name": "tiger1", "url": "https://cdn.pixabay.com/photo/2016/05/02/12/58/tiger-1367197_1280.jpg?width=800" },
+         { "id": "tiger", "name": "tiger", "url": "https://pixabay.com/images/download/garten-gg-tiger-2923186_1920.jpg?width=800" }
       ]
     },
     {
