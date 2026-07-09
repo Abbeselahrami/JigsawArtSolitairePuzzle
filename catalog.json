@@ -32,7 +32,7 @@
       "name": "NatureL",
       "icon": "",
       "puzzles": [
-        { "id": "watersss", "name": "watersss", "url": "https://github.com/Abbeselahrami/JigsawArtSolitairePuzzle/blob/a430e70e794d666facaa3353e28678c2c7a88554/Tiger1.png?width=800" },
+        { "id": "watersss", "name": "watersss", "url": "https://github.com/Abbeselahrami/JigsawArtSolitairePuzzle/blob/a430e70e794d666facaa3353e28678c2c7a88554/Tiger1.png" },
         { "id": "lakesss", "name": "lakesss", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg?width=800" },
         { "id": "sunflowersss", "name": "sunflowersss", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunflower%20sky%20backdrop.jpg?width=800" },
         { "id": "everestss", "name": "everestss", "url": "https://github.com/Abbeselahrami/JigsawArtSolitairePuzzle/blob/a430e70e794d666facaa3353e28678c2c7a88554/Tiger1.png?width=800" }
