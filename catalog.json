@@ -28,6 +28,15 @@
       ]
     },
     {
+      "id": "natuhhhre",
+      "name": "natuhhhre",
+      "icon": "🌿🌿",
+      "puzzles": [
+        { "id": "waterfall", "name": "Waterfall", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopetoun%20falls.jpg?width=800" },
+        { "id": "everest", "name": "Everest", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Everest%20kalapatthar.jpg?width=800" }
+      ]
+    },
+    {
       "id": "food",
       "name": "Food",
       "icon": "🍓",
