@@ -16,6 +16,21 @@
         { "id": "parrot", "name": "Parrot", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ara%20ararauna%20Luc%20Viatour.jpg?width=800" }
       ]
     },
+     {
+      "id": "animals N2",
+      "name": "Animals N2",
+      "icon": "🦁",
+      "puzzles": [
+        { "id": "lion", "name": "Lion", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion%20waiting%20in%20Namibia.jpg?width=800" },
+        { "id": "tiger", "name": "Tiger", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walking%20tiger%20female.jpg?width=800" },
+        { "id": "panda", "name": "Panda", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grosser%20Panda.JPG?width=800" },
+        { "id": "cat", "name": "Cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat%20November%202010-1a.jpg?width=800" },
+        { "id": "fox", "name": "Fox", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vulpes%20vulpes%20ssp%20fulvus.jpg?width=800" },
+        { "id": "elephant", "name": "Elephant", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/African%20Bush%20Elephant.jpg?width=800" },
+        { "id": "horses", "name": "Horses", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nokota%20Horses%20cropped.jpg?width=800" },
+        { "id": "parrot", "name": "Parrot", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ara%20ararauna%20Luc%20Viatour.jpg?width=800" }
+      ]
+    },
     {
       "id": "nature",
       "name": "Nature",
