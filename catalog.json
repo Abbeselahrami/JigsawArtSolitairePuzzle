@@ -17,12 +17,12 @@
       ]
     },
      {
-      "id": "Player",
-      "name": "Player",
-      "icon": "🌿",
+      "id": "playeh",
+      "name": "playeh",
+      "icon": "🌿🌿🌿",
       "puzzles": [
-        { "id": "tiger1", "name": "tiger1", "url": "https://cdn.pixabay.com/photo/2016/05/02/12/58/tiger-1367197_1280.jpg?width=800" },
-         { "id": "myh", "name": "myh", "url": "https://pixabay.com/images/download/garten-gg-tiger-2923186_1920.jpg?width=800" }
+        { "id": "playeh", "name": "playeh", "url": "https://cdn.pixabay.com/photo/2016/05/02/12/58/tiger-1367197_1280.jpg?width=800" },
+         { "id": "playeh2", "name": "playeh2", "url": "https://pixabay.com/images/download/garten-gg-tiger-2923186_1920.jpg?width=800" }
       ]
     },
     {
