@@ -17,6 +17,17 @@
       ]
     },
     {
+      "id": "natureL",
+      "name": "NatureL",
+      "icon": "🌿🌿",
+      "puzzles": [
+        { "id": "waterfallj", "name": "Waterfall", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopetoun%20falls.jpg?width=800" },
+        { "id": "lakej", "name": "Mountain Lake", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg?width=800" },
+        { "id": "sunflowerj", "name": "Sunflower", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunflower%20sky%20backdrop.jpg?width=800" },
+        { "id": "everestj", "name": "Everest", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Everest%20kalapatthar.jpg?width=800" }
+      ]
+    },
+    {
       "id": "nature",
       "name": "Nature",
       "icon": "🌿",
