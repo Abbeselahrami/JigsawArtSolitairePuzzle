@@ -19,10 +19,10 @@
      {
       "id": "playeh",
       "name": "playeh",
-      "icon": "🌿🌿🌿",
+      "icon": "🌿🌿h",
       "puzzles": [
         { "id": "playeh", "name": "playeh", "url": "https://cdn.pixabay.com/photo/2016/05/02/12/58/tiger-1367197_1280.jpg?width=800" },
-         { "id": "playeh2", "name": "playeh2", "url": "https://github.com/Abbeselahrami/JigsawArtSolitairePuzzle/blob/3edd589f9f81c13a1c9313e4d77aac49a17d1b29/garten-gg-tiger-2923186.jpg?width=800" }
+         { "id": "gggg", "name": "gggg", "url": "https://github.com/Abbeselahrami/JigsawArtSolitairePuzzle/blob/3edd589f9f81c13a1c9313e4d77aac49a17d1b29/garten-gg-tiger-2923186.jpg?width=800" }
       ]
     },
     {
