@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "icon": "🦁",
+      "puzzles": [
+        { "id": "lion", "name": "Lion", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion%20waiting%20in%20Namibia.jpg?width=800" },
+        { "id": "tiger", "name": "Tiger", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walking%20tiger%20female.jpg?width=800" },
+        { "id": "panda", "name": "Panda", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grosser%20Panda.JPG?width=800" },
+        { "id": "cat", "name": "Cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat%20November%202010-1a.jpg?width=800" },
+        { "id": "fox", "name": "Fox", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vulpes%20vulpes%20ssp%20fulvus.jpg?width=800" },
+        { "id": "elephant", "name": "Elephant", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/African%20Bush%20Elephant.jpg?width=800" },
+        { "id": "horses", "name": "Horses", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nokota%20Horses%20cropped.jpg?width=800" },
+        { "id": "parrot", "name": "Parrot", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ara%20ararauna%20Luc%20Viatour.jpg?width=800" }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "icon": "🌿",
+      "puzzles": [
+        { "id": "waterfall", "name": "Waterfall", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopetoun%20falls.jpg?width=800" },
+        { "id": "lake", "name": "Mountain Lake", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg?width=800" },
+        { "id": "sunflower", "name": "Sunflower", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunflower%20sky%20backdrop.jpg?width=800" },
+        { "id": "everest", "name": "Everest", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Everest%20kalapatthar.jpg?width=800" }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "icon": "🍓",
+      "puzzles": [
+        { "id": "pizza", "name": "Pizza", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eq%20it-na%20pizza-margherita%20sep2005%20sml.jpg?width=800" },
+        { "id": "apple", "name": "Apple", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red%20Apple.jpg?width=800" },
+        { "id": "strawberries", "name": "Strawberries", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Strawberries.jpg?width=800" },
+        { "id": "cake", "name": "Chocolate Cake", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20cake%20with%20chocolate%20frosting%20topped%20with%20chocolate.jpg?width=800" },
+        { "id": "pie", "name": "Pumpkin Pie", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pumpkin%20pie.jpg?width=800" }
+      ]
+    },
+    {
+      "id": "landmarks",
+      "name": "Landmarks",
+      "icon": "🗼",
+      "puzzles": [
+        { "id": "eiffel", "name": "Eiffel Tower", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons.jpg?width=800" },
+        { "id": "goldengate", "name": "Golden Gate", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GoldenGateBridge-001.jpg?width=800" },
+        { "id": "colosseum", "name": "Colosseum", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%20in%20Rome%2C%20Italy%20-%20April%202007.jpg?width=800" }
+      ]
+    }
+  ]
+}
