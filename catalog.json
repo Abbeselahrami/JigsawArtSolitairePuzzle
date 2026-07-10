@@ -1,19 +1,116 @@
 {
-  "version": 1,
+  "version": 2,
   "categories": [
     {
       "id": "animals",
       "name": "Animals",
       "icon": "🦁",
       "puzzles": [
-        { "id": "lion", "name": "Lion", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion%20waiting%20in%20Namibia.jpg?width=800" },
-        { "id": "tiger", "name": "Tiger", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walking%20tiger%20female.jpg?width=800" },
-        { "id": "panda", "name": "Panda", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grosser%20Panda.JPG?width=800" },
-        { "id": "cat", "name": "Cat", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat%20November%202010-1a.jpg?width=800" },
-        { "id": "fox", "name": "Fox", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vulpes%20vulpes%20ssp%20fulvus.jpg?width=800" },
-        { "id": "elephant", "name": "Elephant", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/African%20Bush%20Elephant.jpg?width=800" },
-        { "id": "horses", "name": "Horses", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nokota%20Horses%20cropped.jpg?width=800" },
-        { "id": "parrot", "name": "Parrot", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ara%20ararauna%20Luc%20Viatour.jpg?width=800" }
+        {
+          "id": "a-dolphin-leaping-out-of",
+          "name": "Dolphin Leaping",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/a-dolphin-leaping-out-of.jpg"
+        },
+        {
+          "id": "baby-elephant-splashing-watering",
+          "name": "Baby Elephant Splashing Watering",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/baby-elephant-splashing-watering.jpg"
+        },
+        {
+          "id": "baby-panda-hugging-bamboo",
+          "name": "Baby Panda Hugging Bamboo",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/baby-panda-hugging-bamboo.jpg"
+        },
+        {
+          "id": "baby-sea-turtle-crawling-beach",
+          "name": "Baby Sea Turtle Crawling Beach",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/baby-sea-turtle-crawling-beach.jpg"
+        },
+        {
+          "id": "bengal-tiger-close-up-portrait-j",
+          "name": "Bengal Tiger Portrait",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/bengal-tiger-close-up-portrait-j.jpg"
+        },
+        {
+          "id": "blue-yellow-macaw-parrot",
+          "name": "Blue Yellow Macaw Parrot",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/blue-yellow-macaw-parrot.jpg"
+        },
+        {
+          "id": "chameleon-close-up-on-branch",
+          "name": "Chameleon Close Up On Branch",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/chameleon-close-up-on-branch.jpg"
+        },
+        {
+          "id": "fawn-standing-in-misty-forest",
+          "name": "Fawn Standing In Misty Forest",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/fawn-standing-in-misty-forest.jpg"
+        },
+        {
+          "id": "fluffy-bunny-sitting-in-grass",
+          "name": "Fluffy Bunny Sitting In Grass",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/fluffy-bunny-sitting-in-grass.jpg"
+        },
+        {
+          "id": "garten-gg-tiger-2923186",
+          "name": "Tiger In The Garden",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/garten-gg-tiger-2923186.jpg"
+        },
+        {
+          "id": "golden-retriever-puppy-wildflowers",
+          "name": "Golden Retriever Puppy Wildflowers",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/golden-retriever-puppy-wildflowers.jpg"
+        },
+        {
+          "id": "grey-kitten-blue-eyes",
+          "name": "Grey Kitten Blue Eyes",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/grey-kitten-blue-eyes.jpg"
+        },
+        {
+          "id": "hedgehog-curled-among-autumn-leaves",
+          "name": "Hedgehog Curled Among Autumn Leaves",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/hedgehog-curled-among-autumn-leaves.jpg"
+        },
+        {
+          "id": "hummingbird-feeding-on-red-flower",
+          "name": "Hummingbird Feeding On Red Flower",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/hummingbird-feeding-on-red-flower.jpg"
+        },
+        {
+          "id": "koala-hugging-eucalyptus-tree-br",
+          "name": "Koala Hugging Eucalyptus",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/koala-hugging-eucalyptus-tree-br.jpg"
+        },
+        {
+          "id": "lion-resting-in-savanna",
+          "name": "Lion Resting In Savanna",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/lion-resting-in-savanna.jpg"
+        },
+        {
+          "id": "owl-perched-on-branch",
+          "name": "Owl Perched On Branch",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/owl-perched-on-branch.jpg"
+        },
+        {
+          "id": "peacock-displaying-open-tail",
+          "name": "Peacock Displaying Open Tail",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/peacock-displaying-open-tail.jpg"
+        },
+        {
+          "id": "penguins-standing-on-white-ice",
+          "name": "Penguins Standing On White Ice",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/penguins-standing-on-white-ice.jpg"
+        },
+        {
+          "id": "red-fox-standing-in-snow",
+          "name": "Red Fox Standing In Snow",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/red-fox-standing-in-snow.jpg"
+        },
+        {
+          "id": "white-horse-galloping-through-lake",
+          "name": "White Horse Galloping Through Lake",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/animals/white-horse-galloping-through-lake.jpg"
+        }
       ]
     },
     {
@@ -21,10 +118,213 @@
       "name": "Nature",
       "icon": "🌿",
       "puzzles": [
-        { "id": "waterfall", "name": "Waterfall", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hopetoun%20falls.jpg?width=800" },
-        { "id": "lake", "name": "Mountain Lake", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine%20Lake%2017092005.jpg?width=800" },
-        { "id": "sunflower", "name": "Sunflower", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunflower%20sky%20backdrop.jpg?width=800" },
-        { "id": "everest", "name": "Everest", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Everest%20kalapatthar.jpg?width=800" }
+        {
+          "id": "autumn-forest-path-golden-leaves",
+          "name": "Autumn Forest Path Golden Leaves",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/autumn-forest-path-golden-leaves.jpg"
+        },
+        {
+          "id": "cherry-blossom-trees-in-bloom",
+          "name": "Cherry Blossom Trees In Bloom",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/cherry-blossom-trees-in-bloom.jpg"
+        },
+        {
+          "id": "field-of-red-poppies-blue",
+          "name": "Field Of Red Poppies Blue",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/field-of-red-poppies-blue.jpg"
+        },
+        {
+          "id": "golden-desert-sand-dunes-sunset",
+          "name": "Golden Desert Sand Dunes Sunset",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/golden-desert-sand-dunes-sunset.jpg"
+        },
+        {
+          "id": "green-hills-with-rainbow",
+          "name": "Green Hills With Rainbow",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/green-hills-with-rainbow.jpg"
+        },
+        {
+          "id": "green-northern-lights-snowy-moun",
+          "name": "Green Northern Lights Snowy Moun",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/green-northern-lights-snowy-moun.jpg"
+        },
+        {
+          "id": "green-rice-terraces-tropical-hil",
+          "name": "Green Rice Terraces Tropical Hil",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/green-rice-terraces-tropical-hil.jpg"
+        },
+        {
+          "id": "hot-air-balloon-free-canyon-dawn",
+          "name": "Hot Air Balloon Free Canyon Dawn",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/hot-air-balloon-free-canyon-dawn.jpg"
+        },
+        {
+          "id": "lavender-field-in-purple-bloom",
+          "name": "Lavender Field In Purple Bloom",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/lavender-field-in-purple-bloom.jpg"
+        },
+        {
+          "id": "lone-tree-on-green-hill",
+          "name": "Lone Tree On Green Hill",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/lone-tree-on-green-hill.jpg"
+        },
+        {
+          "id": "milky-way-over-mountain-silhouette",
+          "name": "Milky Way Over Mountain Silhouette",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/milky-way-over-mountain-silhouette.jpg"
+        },
+        {
+          "id": "ocean-waves-crashing-over-rocks",
+          "name": "Ocean Waves Crashing Over Rocks",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/ocean-waves-crashing-over-rocks.jpg"
+        },
+        {
+          "id": "river-winding-through-pine-forest",
+          "name": "River Winding Through Pine Forest",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/river-winding-through-pine-forest.jpg"
+        },
+        {
+          "id": "snow-capped-mountain-reflected-i",
+          "name": "Snow Capped Mountain Reflected I",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/snow-capped-mountain-reflected-i.jpg"
+        },
+        {
+          "id": "sunrise-over-foggy-valley-mountains",
+          "name": "Sunrise Over Foggy Valley Mountains",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/sunrise-over-foggy-valley-mountains.jpg"
+        },
+        {
+          "id": "tropical-beach-with-palm-tree",
+          "name": "Tropical Beach With Palm Tree",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/tropical-beach-with-palm-tree.jpg"
+        },
+        {
+          "id": "tropical-waterfall-pouring-into",
+          "name": "Tropical Waterfall Pouring Into",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/tropical-waterfall-pouring-into.jpg"
+        },
+        {
+          "id": "turquoise-glacier-lake-rocky-peaks",
+          "name": "Turquoise Glacier Lake Rocky Peaks",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/turquoise-glacier-lake-rocky-peaks.jpg"
+        },
+        {
+          "id": "waterfall-cascading-through-jungle",
+          "name": "Waterfall Cascading Through Jungle",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/waterfall-cascading-through-jungle.jpg"
+        },
+        {
+          "id": "winter-forest-covered-in-snow",
+          "name": "Winter Forest Covered In Snow",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/nature/winter-forest-covered-in-snow.jpg"
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "icon": "🌸",
+      "puzzles": [
+        {
+          "id": "blooming-magnolia-tree-pink-flowers",
+          "name": "Blooming Magnolia Tree Pink Flowers",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/blooming-magnolia-tree-pink-flowers.jpg"
+        },
+        {
+          "id": "bouquet-of-colorful-mixed-flowers",
+          "name": "Bouquet Of Colorful Mixed Flowers",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/bouquet-of-colorful-mixed-flowers.jpg"
+        },
+        {
+          "id": "cottage-garden-overflowing-with",
+          "name": "Cottage Garden Overflowing With",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/cottage-garden-overflowing-with.jpg"
+        },
+        {
+          "id": "dahlia-flower-close-up-vivid-colors",
+          "name": "Dahlia Flower Close Up Vivid Colors",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/dahlia-flower-close-up-vivid-colors.jpg"
+        },
+        {
+          "id": "desert-cactus-with-pink-flowers",
+          "name": "Desert Cactus With Pink Flowers",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/desert-cactus-with-pink-flowers.jpg"
+        },
+        {
+          "id": "field-of-white-daisies",
+          "name": "Field Of White Daisies",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/field-of-white-daisies.jpg"
+        },
+        {
+          "id": "hydrangea-bush-with-blue-pink",
+          "name": "Hydrangea Bush With Blue Pink",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/hydrangea-bush-with-blue-pink.jpg"
+        },
+        {
+          "id": "japanese-garden-with-koi-pond",
+          "name": "Japanese Garden With Koi Pond",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/japanese-garden-with-koi-pond.jpg"
+        },
+        {
+          "id": "lavender-with-bee-soft-purple",
+          "name": "Lavender With Bee Soft Purple",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/lavender-with-bee-soft-purple.jpg"
+        },
+        {
+          "id": "meadow-of-red-poppies-swaying",
+          "name": "Meadow Of Red Poppies Swaying",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/meadow-of-red-poppies-swaying.jpg"
+        },
+        {
+          "id": "orchids-close-up-vivid-colors",
+          "name": "Orchids Close Up Vivid Colors",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/orchids-close-up-vivid-colors.jpg"
+        },
+        {
+          "id": "pastel-cosmos-flowers-swaying-br",
+          "name": "Pastel Cosmos Flowers Swaying Br",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/pastel-cosmos-flowers-swaying-br.jpg"
+        },
+        {
+          "id": "pink-cherry-blossom-branches-ful",
+          "name": "Pink Cherry Blossom Branches Ful",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/pink-cherry-blossom-branches-ful.jpg"
+        },
+        {
+          "id": "pink-lotus-blooming-on-pond",
+          "name": "Pink Lotus Blooming On Pond",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/pink-lotus-blooming-on-pond.jpg"
+        },
+        {
+          "id": "purple-wisteria-tunnel-full-bloom",
+          "name": "Purple Wisteria Tunnel Full Bloom",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/purple-wisteria-tunnel-full-bloom.jpg"
+        },
+        {
+          "id": "red-hibiscus-flower-close-up",
+          "name": "Red Hibiscus Flower Close Up",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/red-hibiscus-flower-close-up.jpg"
+        },
+        {
+          "id": "red-rose-covered-dew-drops",
+          "name": "Red Rose Covered Dew Drops",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/red-rose-covered-dew-drops.jpg"
+        },
+        {
+          "id": "sunflowers-under-blue-sky",
+          "name": "Sunflowers Under Blue Sky",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/sunflowers-under-blue-sky.jpg"
+        },
+        {
+          "id": "tulip-flower-field-dutch",
+          "name": "Tulip Flower Field Dutch",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/tulip-flower-field-dutch.jpg"
+        },
+        {
+          "id": "water-lilies-floating-on-pond",
+          "name": "Water Lilies Floating On Pond",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/flowers/water-lilies-floating-on-pond.jpg"
+        }
       ]
     },
     {
@@ -32,11 +332,106 @@
       "name": "Food",
       "icon": "🍓",
       "puzzles": [
-        { "id": "pizza", "name": "Pizza", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eq%20it-na%20pizza-margherita%20sep2005%20sml.jpg?width=800" },
-        { "id": "apple", "name": "Apple", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red%20Apple.jpg?width=800" },
-        { "id": "strawberries", "name": "Strawberries", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Strawberries.jpg?width=800" },
-        { "id": "cake", "name": "Chocolate Cake", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20cake%20with%20chocolate%20frosting%20topped%20with%20chocolate.jpg?width=800" },
-        { "id": "pie", "name": "Pumpkin Pie", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pumpkin%20pie.jpg?width=800" }
+        {
+          "id": "bowl-overflowing-with-berries",
+          "name": "Bowl Overflowing With Berries",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/bowl-overflowing-with-berries.jpg"
+        },
+        {
+          "id": "cappuccino-with-latte-art",
+          "name": "Cappuccino With Latte Art",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/cappuccino-with-latte-art.jpg"
+        },
+        {
+          "id": "chocolate-cake-with-berries",
+          "name": "Chocolate Cake With Berries",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/chocolate-cake-with-berries.jpg"
+        },
+        {
+          "id": "chocolate-strawberries-on-marble",
+          "name": "Chocolate Strawberries On Marble",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/chocolate-strawberries-on-marble.jpg"
+        },
+        {
+          "id": "colorful-pile-of-gummy-candies",
+          "name": "Colorful Pile Of Gummy Candies",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/colorful-pile-of-gummy-candies.jpg"
+        },
+        {
+          "id": "colorful-sushi-rolls-on-plate",
+          "name": "Colorful Sushi Rolls On Plate",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/colorful-sushi-rolls-on-plate.jpg"
+        },
+        {
+          "id": "golden-waffles-with-strawberries",
+          "name": "Golden Waffles With Strawberries",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/golden-waffles-with-strawberries.jpg"
+        },
+        {
+          "id": "gourmet-cheeseburger-with-fries",
+          "name": "Gourmet Cheeseburger With Fries",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/gourmet-cheeseburger-with-fries.jpg"
+        },
+        {
+          "id": "hot-margherita-pizza-close-up",
+          "name": "Hot Margherita Pizza Close Up",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/hot-margherita-pizza-close-up.jpg"
+        },
+        {
+          "id": "ice-cream-cone-with-scoops",
+          "name": "Ice Cream Cone With Scoops",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/ice-cream-cone-with-scoops.jpg"
+        },
+        {
+          "id": "pancakes-with-strawberries-and-s",
+          "name": "Pancakes With Strawberries And S",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/pancakes-with-strawberries-and-s.jpg"
+        },
+        {
+          "id": "row-of-donuts-with-sprinkles",
+          "name": "Row Of Donuts With Sprinkles",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/row-of-donuts-with-sprinkles.jpg"
+        },
+        {
+          "id": "salad-bowl-with-colorful-vegetables",
+          "name": "Salad Bowl With Colorful Vegetables",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/salad-bowl-with-colorful-vegetables.jpg"
+        },
+        {
+          "id": "smoothie-bowl-topped-with-fruit",
+          "name": "Smoothie Bowl Topped With Fruit",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/smoothie-bowl-topped-with-fruit.jpg"
+        },
+        {
+          "id": "steaming-bowl-of-ramen",
+          "name": "Steaming Bowl Of Ramen",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/steaming-bowl-of-ramen.jpg"
+        },
+        {
+          "id": "strawberry-cheesecake-slice-with",
+          "name": "Strawberry Cheesecake Slice With",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/strawberry-cheesecake-slice-with.jpg"
+        },
+        {
+          "id": "sushi-platter-salmon-tuna-rolls",
+          "name": "Sushi Platter Salmon Tuna Rolls",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/sushi-platter-salmon-tuna-rolls.jpg"
+        },
+        {
+          "id": "tacos-with-colorful-toppings",
+          "name": "Tacos With Colorful Toppings",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/tacos-with-colorful-toppings.jpg"
+        },
+        {
+          "id": "tower-of-pastel-french-macarons",
+          "name": "Tower Of Pastel French Macarons",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/tower-of-pastel-french-macarons.jpg"
+        },
+        {
+          "id": "tray-of-pastel-cupcakes",
+          "name": "Tray Of Pastel Cupcakes",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/food/tray-of-pastel-cupcakes.jpg"
+        }
       ]
     },
     {
@@ -44,9 +439,320 @@
       "name": "Landmarks",
       "icon": "🗼",
       "puzzles": [
-        { "id": "eiffel", "name": "Eiffel Tower", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons.jpg?width=800" },
-        { "id": "goldengate", "name": "Golden Gate", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GoldenGateBridge-001.jpg?width=800" },
-        { "id": "colosseum", "name": "Colosseum", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%20in%20Rome%2C%20Italy%20-%20April%202007.jpg?width=800" }
+        {
+          "id": "big-ben-london-skyline-dusk",
+          "name": "Big Ben London Skyline Dusk",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/big-ben-london-skyline-dusk.jpg"
+        },
+        {
+          "id": "brandenburg-gate-berlin-blue-sky",
+          "name": "Brandenburg Gate Berlin Blue Sky",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/brandenburg-gate-berlin-blue-sky.jpg"
+        },
+        {
+          "id": "burj-khalifa-dubai-skyline-night",
+          "name": "Burj Khalifa Dubai Skyline Night",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/burj-khalifa-dubai-skyline-night.jpg"
+        },
+        {
+          "id": "christ-the-redeemer-overlooking-rio",
+          "name": "Christ The Redeemer Overlooking Rio",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/christ-the-redeemer-overlooking-rio.jpg"
+        },
+        {
+          "id": "egyptian-pyramids-at-golden-hour",
+          "name": "Egyptian Pyramids At Golden Hour",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/egyptian-pyramids-at-golden-hour.jpg"
+        },
+        {
+          "id": "eiffel-tower-glowing-at-sunset",
+          "name": "Eiffel Tower Glowing At Sunset",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/eiffel-tower-glowing-at-sunset.jpg"
+        },
+        {
+          "id": "golden-gate-bridge-in-fog",
+          "name": "Golden Gate Bridge In Fog",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/golden-gate-bridge-in-fog.jpg"
+        },
+        {
+          "id": "great-wall-winding-mountains",
+          "name": "Great Wall Winding Mountains",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/great-wall-winding-mountains.jpg"
+        },
+        {
+          "id": "japanese-temple-red-maple-trees",
+          "name": "Japanese Temple Red Maple Trees",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/japanese-temple-red-maple-trees.jpg"
+        },
+        {
+          "id": "leaning-tower-of-pisa-green",
+          "name": "Leaning Tower Of Pisa Green",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/leaning-tower-of-pisa-green.jpg"
+        },
+        {
+          "id": "machu-picchu-ancient-ruins-mountain",
+          "name": "Machu Picchu Ancient Ruins Mountain",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/machu-picchu-ancient-ruins-mountain.jpg"
+        },
+        {
+          "id": "mount-fuji-with-cherry-blossoms",
+          "name": "Mount Fuji With Cherry Blossoms",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/mount-fuji-with-cherry-blossoms.jpg"
+        },
+        {
+          "id": "neuschwanstein-castle-autumn-forest",
+          "name": "Neuschwanstein Castle Autumn Forest",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/neuschwanstein-castle-autumn-forest.jpg"
+        },
+        {
+          "id": "petra-treasury-carved-rock-jordan",
+          "name": "Petra Treasury Carved Rock Jordan",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/petra-treasury-carved-rock-jordan.jpg"
+        },
+        {
+          "id": "roman-colosseum-under-blue-sky",
+          "name": "Roman Colosseum Under Blue Sky",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/roman-colosseum-under-blue-sky.jpg"
+        },
+        {
+          "id": "santorini-village-at-sunset",
+          "name": "Santorini Village At Sunset",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/santorini-village-at-sunset.jpg"
+        },
+        {
+          "id": "statue-of-liberty-blue-sky",
+          "name": "Statue Of Liberty Blue Sky",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/statue-of-liberty-blue-sky.jpg"
+        },
+        {
+          "id": "sydney-opera-house-at-sunset",
+          "name": "Sydney Opera House At Sunset",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/sydney-opera-house-at-sunset.jpg"
+        },
+        {
+          "id": "taj-mahal-reflected-in-water",
+          "name": "Taj Mahal Reflected In Water",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/taj-mahal-reflected-in-water.jpg"
+        },
+        {
+          "id": "venice-canal-with-gondolas-build",
+          "name": "Venice Canal With Gondolas Build",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/landmarks/venice-canal-with-gondolas-build.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cozy-homes",
+      "name": "Cozy Homes",
+      "icon": "🏡",
+      "puzzles": [
+        {
+          "id": "colorful-canal-houses-reflected",
+          "name": "Colorful Canal Houses Reflected",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/colorful-canal-houses-reflected.jpg"
+        },
+        {
+          "id": "cottage-courtyard-with-stone-well",
+          "name": "Cottage Courtyard With Stone Well",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/cottage-courtyard-with-stone-well.jpg"
+        },
+        {
+          "id": "countryside-house-with-red-shutters",
+          "name": "Countryside House With Red Shutters",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/countryside-house-with-red-shutters.jpg"
+        },
+        {
+          "id": "cozy-autumn-porch-with-pumpkins",
+          "name": "Cozy Autumn Porch With Pumpkins",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/cozy-autumn-porch-with-pumpkins.jpg"
+        },
+        {
+          "id": "cozy-fireplace-with-stacked-logs",
+          "name": "Cozy Fireplace With Stacked Logs",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/cozy-fireplace-with-stacked-logs.jpg"
+        },
+        {
+          "id": "fairytale-cottage-covered-roses",
+          "name": "Fairytale Cottage Covered Roses",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/fairytale-cottage-covered-roses.jpg"
+        },
+        {
+          "id": "greenhouse-full-of-plants-flowers",
+          "name": "Greenhouse Full Of Plants Flowers",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/greenhouse-full-of-plants-flowers.jpg"
+        },
+        {
+          "id": "hillside-village-colorful-houses",
+          "name": "Hillside Village Colorful Houses",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/hillside-village-colorful-houses.jpg"
+        },
+        {
+          "id": "kitchen-with-bread-and-pots",
+          "name": "Kitchen With Bread And Pots",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/kitchen-with-bread-and-pots.jpg"
+        },
+        {
+          "id": "lighthouse-cottage-on-green-cliffs",
+          "name": "Lighthouse Cottage On Green Cliffs",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/lighthouse-cottage-on-green-cliffs.jpg"
+        },
+        {
+          "id": "mediterranean-white-house-blue-door",
+          "name": "Mediterranean White House Blue Door",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/mediterranean-white-house-blue-door.jpg"
+        },
+        {
+          "id": "reading-nook-rainy-window-sleepi",
+          "name": "Reading Nook Rainy Window Sleepi",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/reading-nook-rainy-window-sleepi.jpg"
+        },
+        {
+          "id": "rustic-farmhouse-red-barn-fields",
+          "name": "Rustic Farmhouse Red Barn Fields",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/rustic-farmhouse-red-barn-fields.jpg"
+        },
+        {
+          "id": "snow-covered-village-street-at-dusk",
+          "name": "Snow Covered Village Street At Dusk",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/snow-covered-village-street-at-dusk.jpg"
+        },
+        {
+          "id": "stone-cottage-blooming-english-g",
+          "name": "Stone Cottage Blooming English G",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/stone-cottage-blooming-english-g.jpg"
+        },
+        {
+          "id": "tiny-alpine-chalet-mountainside",
+          "name": "Tiny Alpine Chalet Mountainside",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/tiny-alpine-chalet-mountainside.jpg"
+        },
+        {
+          "id": "treehouse-with-rope-bridge-lanterns",
+          "name": "Treehouse With Rope Bridge Lanterns",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/treehouse-with-rope-bridge-lanterns.jpg"
+        },
+        {
+          "id": "windmill-beside-tulip-field",
+          "name": "Windmill Beside Tulip Field",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/windmill-beside-tulip-field.jpg"
+        },
+        {
+          "id": "wooden-cabin-in-snowy-forest",
+          "name": "Wooden Cabin In Snowy Forest",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/wooden-cabin-in-snowy-forest.jpg"
+        },
+        {
+          "id": "wooden-cabin-with-canoe-dock",
+          "name": "Wooden Cabin With Canoe Dock",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/cozy-homes/wooden-cabin-with-canoe-dock.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean",
+      "icon": "🌊",
+      "puzzles": [
+        {
+          "id": "colorful-coral-reef-tropical-fish",
+          "name": "Colorful Coral Reef Tropical Fish",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/colorful-coral-reef-tropical-fish.jpg"
+        },
+        {
+          "id": "crab-walking-on-beach-rock",
+          "name": "Crab Walking On Beach Rock",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/crab-walking-on-beach-rock.jpg"
+        },
+        {
+          "id": "dolphins-swimming-near-ocean-sur",
+          "name": "Dolphins Swimming Near Ocean Sur",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/dolphins-swimming-near-ocean-sur.jpg"
+        },
+        {
+          "id": "humpback-whale-breaching-sunset",
+          "name": "Humpback Whale Breaching Sunset",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/humpback-whale-breaching-sunset.jpg"
+        },
+        {
+          "id": "jellyfish-glowing-in-dark-water",
+          "name": "Jellyfish Glowing In Dark Water",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/jellyfish-glowing-in-dark-water.jpg"
+        },
+        {
+          "id": "manta-ray-gliding-over-ocean",
+          "name": "Manta Ray Gliding Over Ocean",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/manta-ray-gliding-over-ocean.jpg"
+        },
+        {
+          "id": "mermaid-blue-wave-curling-barrel",
+          "name": "Mermaid Blue Wave Curling Barrel",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/mermaid-blue-wave-curling-barrel.jpg"
+        },
+        {
+          "id": "octopus-on-rocky-reef",
+          "name": "Octopus On Rocky Reef",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/octopus-on-rocky-reef.jpg"
+        },
+        {
+          "id": "orange-clownfish-peeking-out-ane",
+          "name": "Orange Clownfish Peeking Out Ane",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/orange-clownfish-peeking-out-ane.jpg"
+        },
+        {
+          "id": "orcas-swimming-in-arctic-water",
+          "name": "Orcas Swimming In Arctic Water",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/orcas-swimming-in-arctic-water.jpg"
+        },
+        {
+          "id": "parrotfish-swimming-past-coral-t",
+          "name": "Parrotfish Swimming Past Coral T",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/parrotfish-swimming-past-coral-t.jpg"
+        },
+        {
+          "id": "penguin-diving-underwater-leavin",
+          "name": "Penguin Diving Underwater Leavin",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/penguin-diving-underwater-leavin.jpg"
+        },
+        {
+          "id": "sea-turtle-gliding-coral-garden",
+          "name": "Sea Turtle Gliding Coral Garden",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/sea-turtle-gliding-coral-garden.jpg"
+        },
+        {
+          "id": "seahorse-holding-seagrass",
+          "name": "Seahorse Holding Seagrass",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/seahorse-holding-seagrass.jpg"
+        },
+        {
+          "id": "seal-swimming-turquoise-water",
+          "name": "Seal Swimming Turquoise Water",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/seal-swimming-turquoise-water.jpg"
+        },
+        {
+          "id": "starfish-and-seashells-white-sand",
+          "name": "Starfish And Seashells White Sand",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/starfish-and-seashells-white-sand.jpg"
+        },
+        {
+          "id": "sunken-shipwreck-covered-coral-fish",
+          "name": "Sunken Shipwreck Covered Coral Fish",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/sunken-shipwreck-covered-coral-fish.jpg"
+        },
+        {
+          "id": "tropical-lagoon-with-palm-trees",
+          "name": "Tropical Lagoon With Palm Trees",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/tropical-lagoon-with-palm-trees.jpg"
+        },
+        {
+          "id": "underwater-cave-sunbeams-turquoi",
+          "name": "Underwater Cave Sunbeams Turquoi",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/underwater-cave-sunbeams-turquoi.jpg"
+        },
+        {
+          "id": "yellow-fish-swirling-deep-water",
+          "name": "Yellow Fish Swirling Deep Water",
+          "url": "https://raw.githubusercontent.com/Abbeselahrami/JigsawArtSolitairePuzzle/main/ocean/yellow-fish-swirling-deep-water.jpg"
+        }
       ]
     }
   ]
